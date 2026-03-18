@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AhsanBaidar">Ahsan Baidar Bakht</a></h1>
 
 <p align="center">
-  <em>Computer Vision Researcher @ Khalifa University | Multimodal Tracking | Underwater Image Enhancement | Vision-Language-Action (VLA) Models</em>
+  <em>Computer Vision Engineer @ Khalifa University | Multimodal Tracking | Underwater Image Enhancement | Vision-Language-Action (VLA) Models</em>
 </p>
 
 ---
