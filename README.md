@@ -19,7 +19,7 @@ I'm passionate about advancing embodied AI and robotics through:
 ---
 
 ## 💼 Experience
-**Computer Vision Researcher**  
+**Computer Vision Engineer**  
 *Khalifa University* (2022 – Present)  
 - Lead researcher on maritime visual tracking & multimodal datasets  
 - Developed GAN architectures for underwater image enhancement  
