@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./profile/stats.svg" alt="Ahsan's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhsanBaidar&show_icons=true&theme=tokyonight" />
 </p>
-
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AhsanBaidar">Ahsan Baidar Bakht</a></h1>
 
 <p align="center">
