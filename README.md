@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhsanBaidar&show_icons=true&theme=dark" alt="Ahsan's GitHub stats" />
+  <img src="./profile/stats.svg" alt="Ahsan's GitHub stats" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AhsanBaidar">Ahsan Baidar Bakht</a></h1>
