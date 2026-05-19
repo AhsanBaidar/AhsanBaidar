@@ -27,6 +27,7 @@ I'm passionate about advancing embodied AI and robotics through:
 ---
 
 ## 📄 Selected Publications
+- [MUOT_3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method](https://arxiv.org/abs/2602.18006)
 - ["MVTD: Maritime Visual Tracking Dataset"](https://arxiv.org/abs/2506.02866)
 - ["Multi-Level Attention GAN for Underwater Image Enhancement"](https://www.sciencedirect.com/science/article/pii/S1574954124001730)
 - ["Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments"](https://ieeexplore.ieee.org/abstract/document/10848073) 
